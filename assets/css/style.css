@@ -18,6 +18,25 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+h1 {
+    font-family: 'Codystar', sans-serif;
+    font-size: 90px;
+    text-transform: uppercase;
+    initial-letter: 4px;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
+h2,
+h3 {
+    font-family: 'Raleway Dots', sans-serif;
+    font-size: 50px;
+    initial-letter: 4px;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -33,14 +52,6 @@ header a {
     color: inherit;
 }
 
-h1 {
-    font-family: 'Codystar', sans-serif;
-    font-size: 90px;
-    text-transform: uppercase;
-    initial-letter: 4px;
-    letter-spacing: 2px;
-    color: #252525;
-}
 
 /* navigation links */
 #menu {
@@ -64,12 +75,31 @@ main {
     margin-top: 47px;
 }
 
+
 /* hero section*/
 #hero {
     height: 600px;
     width: 100%;
     background: url(../images/hero\ image.webp) no-repeat center center/cover;
+    position: relative;
 }
+
+#cover-text {
+    background-color: rgba(259, 109, 107, .8);
+    font-size: 100%;
+    position: absolute;
+    bottom: 20px;
+    width: 70%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#cover-text>h2,
+#cover-text>h3 {
+    color: #ffffff;
+}
+
 
 /* footer and social media icons */
 
