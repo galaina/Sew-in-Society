@@ -75,6 +75,29 @@ main {
     margin-top: 47px;
 }
 
+/* about us section */
+#about {
+    width: 90%;
+    margin: 20px;
+}
+
+#about h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+
+#community div {
+    line-height: 20px;
+    margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#community p {
+    padding: 0 20px;
+}
+
 
 /* hero section*/
 #hero {
