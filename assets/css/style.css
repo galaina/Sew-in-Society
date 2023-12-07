@@ -28,12 +28,18 @@ header {
     box-shadow: 0 2px 2px #3a3a3a;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: 'Codystar', sans-serif;
-    font-size: 85px;
+    font-size: 90px;
     text-transform: uppercase;
     initial-letter: 4px;
-    color: #3a3a3a;
+    letter-spacing: 2px;
+    color: #252525;
 }
 
 /* navigation links */
@@ -47,6 +53,18 @@ h1 {
     list-style-type: none;
     margin-right: 20px;
 }
+
+/*navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+}
+
 
 /* Main Content */
 main {
