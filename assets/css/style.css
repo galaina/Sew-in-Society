@@ -63,7 +63,24 @@ main {
     flex: 1 0 auto;
 }
 
-/* Footer */
+/* footer and social media icons */
+
 footer {
-    background-color: lightseagreen;
+    height: 100px;
+    background-color: #3a3a3a;
+}
+
+#social-networks {
+    text-align: center;
+}
+
+#social-networks > li {
+    display: inline;
+}
+
+#social-networks a {
+    font-size: 100%;
+    margin: 1%;
+    padding: 5%;
+    color: #fafafa;
 }
