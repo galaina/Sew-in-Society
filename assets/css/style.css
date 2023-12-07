@@ -22,12 +22,22 @@ body {
 header {
     background-color: lightgray;
 }
+
+h1 {
+    font-family: 'Codystar', sans-serif;
+    font-size: 70px;
+    text-transform: uppercase;
+    initial-letter: 4px;
+    color: #3a3a3a;
+}
+
 /* Main Content */
 main {
     background-color: lightsteelblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
+
 /* Footer */
 footer {
     background-color: lightseagreen;
