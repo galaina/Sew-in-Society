@@ -67,7 +67,7 @@ main {
 
 footer {
     height: 100px;
-    background-color: #3a3a3a;
+    background-color: #ffffff;
 }
 
 #social-networks {
@@ -82,5 +82,5 @@ footer {
     font-size: 100%;
     margin: 1%;
     padding: 5%;
-    color: #fafafa;
+    color: #3a3a3a;
 }
