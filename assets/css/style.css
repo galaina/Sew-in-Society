@@ -103,6 +103,17 @@ hr {
     margin: 5px 0;
 }
 
+/* Community image section */
+
+#circle-cover-bg {
+    background: url(../images/community\ image.webp);
+    height: 50vw;
+    width: 50vw;
+    margin-bottom: 20px;
+    transform: scale(0.5);
+}
+
+#community-image {}
 
 /* Meet the team Section */
 #team {
@@ -155,6 +166,29 @@ hr {
 #cover-text>h2,
 #cover-text>h3 {
     color: #ffffff;
+}
+
+/* classes section box */
+
+#classes {
+    background-image: url();
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#classes div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 15%;
+    height: 280px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid #fafafa;
+    box-sizing: border-box;
 }
 
 
