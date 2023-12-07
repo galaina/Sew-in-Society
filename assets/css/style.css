@@ -20,15 +20,32 @@ body {
 
 /* Header */
 header {
-    background-color: lightgray;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
 h1 {
     font-family: 'Codystar', sans-serif;
-    font-size: 70px;
+    font-size: 85px;
     text-transform: uppercase;
     initial-letter: 4px;
     color: #3a3a3a;
+}
+
+/* navigation links */
+#menu {
+    font-size: 80%;
+    letter-spacing: 3px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
 }
 
 /* Main Content */
