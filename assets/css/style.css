@@ -197,6 +197,11 @@ hr {
     box-sizing: border-box;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
 
 /* footer and social media icons */
 
