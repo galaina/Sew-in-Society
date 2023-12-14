@@ -107,15 +107,13 @@ hr {
 /* Community image section */
 
 #community-image {
-    background: url(../images/community-image.webp) no-repeat top center / cover;
-    height: 130vw;
-    width: 80vw;
-
-    transform: scale(0.7);
+    width: 100%;
+    height: auto;
     display: flex;
-    align-items: center;
+    margin: 0 auto;
+    padding: 0;
+    align-items: flex-start;
     justify-content: center;
-    vertical-align: middle;
 }
 
 /* Meet the team Section */
@@ -199,8 +197,7 @@ hr {
 
 /* Gallery page */
 
-p {
-    font-weight: 200;
+#cover-text>p {
     color: #ffffff;
 }
 
@@ -208,13 +205,17 @@ p {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     /* Adjust the number of columns as needed */
-    gap: 10px;
+    gap: 5px;
     margin-top: 20px;
 }
 
 #photos img {
     width: 100%;
     line-height: 1em;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
 }
 
 /* footer and social media icons */
@@ -258,3 +259,6 @@ footer {
         padding-right: 1rem;
     }
 }
+
+/* Media Query: large devices  (laptop and desktop, 992px and up) */
+@media screen and (min-width: 992px) {}
