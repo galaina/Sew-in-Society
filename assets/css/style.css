@@ -198,6 +198,20 @@ hr {
 }
 
 /* Gallery page */
+
+p {
+    font-weight: 200;
+    color: #ffffff;
+}
+
+#photos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* Adjust the number of columns as needed */
+    gap: 10px;
+    margin-top: 20px;
+}
+
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -223,4 +237,24 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+/* Media Query: large or landscape phone (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+    }
+}
+
+/* Media Query: tablets and Larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
 }
