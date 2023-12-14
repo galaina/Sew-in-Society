@@ -79,6 +79,7 @@ main {
 #about {
     width: 90%;
     margin: 20px;
+    text-align: center;
 }
 
 #about h2 {
@@ -105,15 +106,18 @@ hr {
 
 /* Community image section */
 
-#circle-cover-bg {
-    background: url(../images/community\ image.webp);
-    height: 50vw;
-    width: 50vw;
-    margin-bottom: 20px;
-    transform: scale(0.5);
+#community-image {
+    background: url(../images/community-image.webp) no-repeat top center / cover;
+    height: 130vw;
+    width: 80vw;
+
+    transform: scale(0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
 }
 
-#community-image {}
 
 /* Meet the team Section */
 #team {
@@ -170,23 +174,26 @@ hr {
 
 /* classes section box */
 
-#classes {
-    background-image: url();
-    background-repeat: no repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
+#times {
+    background: url(../images/classes-2.webp) no-repeat center/cover;
+    /* handles responsively without without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
 }
 
-#classes div {
+#times div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
-    width: 15%;
-    height: 280px;
-    float: left;
     padding: 30px 0 0 10px;
     text-align: center;
+    /* This will not wrap on screens of less than 400px wide.
+        Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates a grid of meetup time divs over the background image */
+    width: 16%;
+    height: 330px;
+    float: left;
     border: 2px solid #fafafa;
     box-sizing: border-box;
 }
