@@ -218,6 +218,32 @@ hr {
     transition: transform 0.2s ease-in-out;
 }
 
+
+/* Style for Sign up form section */
+#signup-box {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Style for members form section */
+#member-box {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    align-items: center;
+}
+
 /* footer and social media icons */
 
 footer {
