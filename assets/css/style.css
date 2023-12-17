@@ -221,7 +221,7 @@ hr {
 
 /* Style for Sign up form section */
 #signup-box {
-    max-width: 400px;
+    max-width: 500px;
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
@@ -236,7 +236,7 @@ hr {
 
 /* Style for members form section */
 #member-box {
-    max-width: 400px;
+    max-width: 500px;
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
@@ -251,7 +251,7 @@ hr {
 
 /* Style for the question section */
 #question-box {
-    max-width: 400px;
+    max-width: 500px;
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
@@ -266,7 +266,7 @@ hr {
 
 /* Style for the question section */
 #locate-box {
-    max-width: 400px;
+    max-width: 600px;
     width: 100%;
     padding: 20px;
     margin: 20px auto;
