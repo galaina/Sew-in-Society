@@ -83,7 +83,7 @@ main {
 }
 
 #cover-text {
-    background-color: rgba(166, 212, 239, 0.744);
+    background-color: rgba(147, 189, 231, 0.744);
     font-size: 100%;
     position: absolute;
     bottom: 20px;
@@ -155,7 +155,7 @@ hr {
     margin-bottom: 20px;
     text-align: center;
     font-size: 170%;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 #team div {
@@ -170,6 +170,12 @@ hr {
 
 
 /* classes section box */
+
+#classes h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
 
 #times {
     background: url(../images/classes-2.webp) no-repeat center/cover;
