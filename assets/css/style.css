@@ -69,10 +69,33 @@ header a {
 
 /* Main Content */
 main {
-    background-color: lightsteelblue;
-    /* Make main element take up any surplus space to push footer down */
+    background-color: rgb(191, 210, 236);
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+/* hero section*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero\ image.webp) no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: rgba(166, 212, 239, 0.744);
+    font-size: 100%;
+    position: absolute;
+    bottom: 20px;
+    width: 70%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#cover-text>h2,
+#cover-text>h3 {
+    color: #ffffff;
 }
 
 /* about us section */
@@ -145,29 +168,6 @@ hr {
     padding: 0 20px;
 }
 
-/* hero section*/
-#hero {
-    height: 600px;
-    width: 100%;
-    background: url(../images/hero\ image.webp) no-repeat center center/cover;
-    position: relative;
-}
-
-#cover-text {
-    background-color: rgba(259, 109, 107, .8);
-    font-size: 100%;
-    position: absolute;
-    bottom: 20px;
-    width: 70%;
-    min-height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
-}
-
-#cover-text>h2,
-#cover-text>h3 {
-    color: #ffffff;
-}
 
 /* classes section box */
 
@@ -349,15 +349,30 @@ footer {
     }
 
     h1 {
-        font-size: 65px;
-        /* Set the reduced font size for H1 on smaller screens */
+        font-size: 60px;
     }
 
     header {
-        padding: 0.5rem;
+        padding: 0.3rem;
         /* Adjust padding for smaller screens */
         box-shadow: none;
-        /* Remove box shadow on smaller screens if desired */
+    }
+
+    #hero {
+        height: 400px;
+    }
+
+    #cover-text {
+        width: 90%;
+        min-height: 150px;
+        /* Adjust the min-height for smaller screens */
+        padding-top: 30px;
+    }
+
+    #cover-text>h2,
+    #cover-text>h3 {
+        color: #ffffff;
+        font-size: 40px;
     }
 }
 
