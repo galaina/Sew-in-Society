@@ -342,6 +342,25 @@ footer {
     color: #3a3a3a;
 }
 
+/* Media Query: large phone (576px and up) */
+@media screen and (max-width: 576px) {
+    #photos {
+        column-count: 2;
+    }
+
+    h1 {
+        font-size: 65px;
+        /* Set the reduced font size for H1 on smaller screens */
+    }
+
+    header {
+        padding: 0.5rem;
+        /* Adjust padding for smaller screens */
+        box-shadow: none;
+        /* Remove box shadow on smaller screens if desired */
+    }
+}
+
 /* Media Query: large or landscape phone (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
