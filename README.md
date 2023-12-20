@@ -123,7 +123,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ## Media
 
-- images were downloaded from [pexels]{https://www.pexels.com/}
-- maps were imported from [google maps]{https://www.google.com/maps/}
+- images were downloaded from [pexels:]{https://www.pexels.com/}
+- maps were imported from [Google Maps:]{https://www.google.com/maps/}
 - Font Awesome was used on all pages throughout the website to add icons [Font Awesome:](https://fontawesome.com/)
 - Google fonts were used to import the Raleway and Raleway Dots font throughout the website [Google Fonts:](https://fonts.google.com/)
