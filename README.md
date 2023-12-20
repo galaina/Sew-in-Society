@@ -1,9 +1,8 @@
-Sew-In Society
-![icon](assets/favicon/sewin icon 50x50.png)
+# Sew-In Society
 
 Welcome to the Sew-In Society website! This platform is designed to provide a seamless experience for users interested in sewing and and pattern cutting, including testimonials from the team, imagery gallery of the community and links to social media platforms. Whether you're a seasoned professional or just starting, our website aims to connect and inspire the sewing community by inviting them to our fully equipped sewing studio with professional assistance at hand.
 
-![homepage on four devices](/workspaces/Sew-in-Society/documentation/feature 1.png)
+<h2 align="center"><img src="documentation/feature 1.png"></h2>
 
 ## Features
 
@@ -15,25 +14,25 @@ The website boasts an intuitive and user-friendly navigation system. The menu is
 
 The captivating hero image and cover-text provide an engaging visual experience. It sets the tone for the website and showcases the creativity of the sewing community. It also plays as a snippet introduction to all the pages, giving a brief overview.
 
-![hero image and cover text](/workspaces/Sew-in-Society/documentation/feature 4.png)
+![hero image and cover text](documentation/feature_4.png)
 
 ### Sign-Up Form
 
 To enhance user engagement, i have offered a simple and secure sign-up form. Users can sign up to stay up to date with all events and upcoming workshops. They also have the option to become a member create accounts to access exclusive content, priority bookings to all events, and being a part of a growing thriving community of like minded creatives.
 
-![sign up form screenshot](/workspaces/Sew-in-Society/documentation/feature 2.png)
+![sign up form screenshot](documentation/feature_2.png)
 
 ### Gallery
 
 The gallery page allows users to get a visual representation of the studio space and the community. it showcases the workspace, free facilities and environment they would work in.
 
-[gallery page](/workspaces/Sew-in-Society/documentation/feature 5.png)
+[gallery page](documentation/feature_5.png)
 
 ### Google Map
 
 The interative google map allows users toget accurate location from a trusted source to find the studio. can be used to find direction via car, public transport or by foot.
 
-![google map](/workspaces/Sew-in-Society/documentation/feature 3.png)
+![google map](documentation/feature_3.png)
 
 ## User Experience (UX)
 
@@ -70,16 +69,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 When running my deployed website home page through th Markup Validator, I discovered some broken codes that were disrupting the efficiency of my site. The below examples show some common errors
 
-![teste code html errors 1](/workspaces/Sew-in-Society/documentation/feature 6.png)
-![tested code html errors 2 ](/workspaces/Sew-in-Society/documentation/feature 7.png)
+![teste code html errors 1](documentation/feature_6.png)
+![tested code html errors 2 ](documentation/feature_7.png)
 
 I returned to my index.html and resolved these issues by structuring the broken codes correctly
 
-![sign. up box no button](/workspaces/Sew-in-Society/documentation/feature 8.png)
+![sign. up box no button](documentation/feature_8.png)
 
 The submit button was not visible in th esign up box and either submit button were working correctly
 
-![sign. up successful](/workspaces/Sew-in-Society/documentation/feature 9.png)
+![sign. up successful](documentation/feature_9.png)
 
 I returned to the contact.html and notice the form element was not structured correctly, as the closing backets were at the end of the form content. i restructured the code and now the completed sign up page appears after all information is entered correctly
 
@@ -92,6 +91,8 @@ A large amount of testing was done to ensure that all pages were linking correct
 ### Known Bugs
 
 The imported stylesheet from googlefont can not be checked in direct input. however this is out of the developer control and dos not effect the fonts function on the website.
+
+![css bug](documentation/css_1.png)
 
 ## Deployment
 
@@ -117,6 +118,12 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ## Credit
 
-- All content was written by the developer.
+- content was written by the developer.
+- sought coding assistance from [w3schools]{<https://www.w3schools.com/>}
 
 ## Media
+
+- images were downloaded from [pexels]{https://www.pexels.com/}
+- maps were imported from [google maps]{https://www.google.com/maps/}
+- Font Awesome was used on all pages throughout the website to add icons [Font Awesome:](https://fontawesome.com/)
+- Google fonts were used to import the Raleway and Raleway Dots font throughout the website [Google Fonts:](https://fonts.google.com/)
