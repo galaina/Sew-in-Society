@@ -38,28 +38,36 @@ The interative google map allows users toget accurate location from a trusted so
 
 ### User Stories
 
-First Time User 
-- As a First Time Visitor, they will want to easily understand the purpose of the site and learn more about the company. 
-- As a First Time Visitor, they will want to easily navigate the way through the site with clear indications to the right pages 
+First Time User
+
+- As a First Time Visitor, they will want to easily understand the purpose of the site and learn more about the company.
+- As a First Time Visitor, they will want to easily navigate the way through the site with clear indications to the right pages
 - As a First Time Visitor, they will want to discover the benefits of joining the Sewing Society Club
 
 Returning User
+
 - As a Returning Visitor, they will want to read further on the team member testimonials and classes details
 - As a Returning Visitor, they will want to easily sign up for access exclusive updates to events and workshops
 - As a Returning Visitor, they will want to explore all features in depth including the social media links to gain more insght into the sew-in society community
 
 Frequent User
+
 - As a Frequent Visitor, they will want to easily sign up for membership to access all member benefits such as priority workshop booking, discounted and free events
 - As a Frequent Visitor, they will want to copy and share the key contact details with other networks, such as the address and email
 
 ### Design
 
-    Colour Scheme
-        -   The two main colours used are lightsteel blue for the background, and white for the header, footer and some text .
-    Typography
-        -   The Raleway font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. also the Raleway Dots font was a family font used for all headings that gave more texture. Raleway group font is a clean font and suitable in programming, so it is both attractive and appropriate.
-    Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a vibrant and aesthetically clean image that aligns with the theme of the site.
+Colour Scheme
+
+- The two main colours used are lightsteel blue for the background, and white for the header, footer and some text .
+
+Typography
+
+- The Raleway font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. also the Raleway Dots font was a family font used for all headings that gave more texture. Raleway group font is a clean font and suitable in programming, so it is both attractive and appropriate.
+
+Imagery
+
+- Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a vibrant and aesthetically clean image that aligns with the theme of the site.
 
 ## Testing
 
