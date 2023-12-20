@@ -3,7 +3,7 @@ Sew-In Society
 
 Welcome to the Sew-In Society website! This platform is designed to provide a seamless experience for users interested in sewing and and pattern cutting, including testimonials from the team, imagery gallery of the community and links to social media platforms. Whether you're a seasoned professional or just starting, our website aims to connect and inspire the sewing community by inviting them to our fully equipped sewing studio with professional assistance at hand.
 
-![homepage on four devices](/workspaces/Sew-in-Society/documentation/feature 1.png)
+![homepage on four devices](/workspaces/Sew-in-Society/assets/images/feature 1.png)
 
 ## Features
 
