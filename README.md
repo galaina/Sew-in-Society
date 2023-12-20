@@ -67,6 +67,14 @@ When running my deployed website home page through th  Markup Validator, I disco
 <h2><img src="documentation/feature 7.png"></h2>
 I returned to my index.html and resolved these issues by structuring the broken codes correctly
 
+<h2><img src="documentation/feature 8.png"></h2>
+The submit button was not visible in th esign up box and either submit button were working correctly
+
+<h2><img src="documentation/feature 9.png"></h2>
+I returned to the contact.html and notice the form element was not structured correctly, as the closing backets were at the end of the form content. i restructured the code and now the completed sign up page appears after all information is entered correctly
+
+
+
 ### Further Testing
 
 The Website was tested on Google Chrome, Firefox and Safari browser.
