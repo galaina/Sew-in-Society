@@ -76,6 +76,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
+Accessibility testing run via lighthouse has shown that my fonts and colours are easy to read and accessible for all users. please see the results shown below.
+
+[lighthouse accessibility](documentation/feature_12.png)
+
 ### Solved Bugs
 
 When running my deployed website home page through th Markup Validator, I discovered some broken codes that were disrupting the efficiency of my site. The below examples show some common errors
