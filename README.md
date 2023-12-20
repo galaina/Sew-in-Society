@@ -1,6 +1,5 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Sew-In Society <img href="assets/favicon/sewin icon 50x50.png">
+Sew-In Society
+![icon](assets/favicon/sewin icon 50x50.png)
 
 Welcome to the Sew-In Society website! This platform is designed to provide a seamless experience for users interested in sewing and and pattern cutting, including testimonials from the team, imagery gallery of the community and links to social media platforms. Whether you're a seasoned professional or just starting, our website aims to connect and inspire the sewing community by inviting them to our fully equipped sewing studio with professional assistance at hand.
 
@@ -90,6 +89,10 @@ The Website was tested on Google Chrome, Firefox and Safari browser.
 The website was viewed on a different devices such as Desktop, Laptop and latest iPhone models
 A large amount of testing was done to ensure that all pages were linking correctly.
 
+### Known Bugs
+
+The imported stylesheet from googlefont can not be checked in direct input. however this is out of the developer control and dos not effect the fonts function on the website.
+
 ## Deployment
 
 ### GitHub Pages
@@ -111,32 +114,6 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
-
-### Making a Local Clone
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
-
-```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
-
-7. Press Enter. Your local clone will be created.
-
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-```
-
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credit
 
