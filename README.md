@@ -59,6 +59,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
+### Solved Bugs
+
+When running my deployed website home page through th  Markup Validator, I discovered some broken codes that were disrupting the efficiency of my site. The below examples show some common errors
+
+<h2><img src="documentation/feature 6.png"></h2>
+<h2><img src="documentation/feature 7.png"></h2>
+I returned to my index.html and resolved these issues by structuring the broken codes correctly
+
 ### Further Testing
 
 The Website was tested on Google Chrome, Firefox and Safari browser.
@@ -115,6 +123,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 
 ## Credit
+
+-   All content was written by the developer.
 
 ## Media
 
