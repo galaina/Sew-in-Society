@@ -22,7 +22,6 @@ h1 {
     font-family: 'Codystar', sans-serif;
     font-size: 90px;
     text-transform: uppercase;
-    initial-letter: 4px;
     letter-spacing: 2px;
     color: #252525;
 }
@@ -31,7 +30,6 @@ h2,
 h3 {
     font-family: 'Raleway Dots', sans-serif;
     font-size: 50px;
-    initial-letter: 4px;
     letter-spacing: 2px;
     color: #252525;
 }
