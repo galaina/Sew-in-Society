@@ -38,16 +38,19 @@ The interative google map allows users toget accurate location from a trusted so
 
 ### User Stories
 
-First Time User - As a First Time Visitor, they will want to easily understand the purpose of the site and learn more about the company. - As a First Time Visitor, they will want to easily navigate the way through the site with clear indications to the right pages - As a First Time Visitor, they will want to discover the benefits of joining the Sewing Society Club
+First Time User 
+- As a First Time Visitor, they will want to easily understand the purpose of the site and learn more about the company. 
+- As a First Time Visitor, they will want to easily navigate the way through the site with clear indications to the right pages 
+- As a First Time Visitor, they will want to discover the benefits of joining the Sewing Society Club
 
-    Returning User
-    - As a Returning Visitor, they will want to read further on the team member testimonials and classes details
-    - As a Returning Visitor, they will want to easily sign up for access exclusive updates to events and workshops
-    - As a Returning Visitor, they will want to explore all features in depth including the social media links to gain more insght into the sew-in society community
+Returning User
+- As a Returning Visitor, they will want to read further on the team member testimonials and classes details
+- As a Returning Visitor, they will want to easily sign up for access exclusive updates to events and workshops
+- As a Returning Visitor, they will want to explore all features in depth including the social media links to gain more insght into the sew-in society community
 
-    Frequent User
-    - As a Frequent Visitor, they will want to easily sign up for membership to access all member benefits such as priority workshop booking, discounted and free events
-    - As a Frequent Visitor, they will want to copy and share the key contact details with other networks, such as the address and email
+Frequent User
+- As a Frequent Visitor, they will want to easily sign up for membership to access all member benefits such as priority workshop booking, discounted and free events
+- As a Frequent Visitor, they will want to copy and share the key contact details with other networks, such as the address and email
 
 ### Design
 
